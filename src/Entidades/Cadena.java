@@ -17,6 +17,7 @@ public class Cadena {
 private String frase ;
 private int Longitud;
 private String Mayuscula;
+private String Bombon;
 
     public Cadena() {
     }
